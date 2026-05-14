@@ -4,7 +4,7 @@
       "commerce-endpoint": "https://na1-qa.api.commerce.adobe.com/6EcGBDJcEJtynriCRzF68r/graphql",
       "headers": {
         "cs": {
-          "AC-View-ID": "{{HEADER_VALUE}}",
+          "AC-View-ID": "8aab8aa1-6f7a-4777-b0b3-ae4a4f13b4f6",
           "AC-Price-Book-ID": "{{HEADER_VALUE}}"
         }
       },
@@ -13,14 +13,14 @@
       "commerce-assets-enabled": true,
       "adobe-commerce-optimizer": true,
       "analytics": {
-        "base-currency-code": "{{CURRENCY_CODE}}",
+        "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "6EcGBDJcEJtynriCRzF68r",
         "locale": "en-US",
         "store-url": "https://main--storefront--alinalex.aem.live/",
-        "store-view-currency-code": "{{CURRENCY_CODE}}",
+        "store-view-currency-code": "USD",
         "storefront-template": "Other",
-        "view-id": "{{CATALOG_VIEW_ID}}"
+        "view-id": "8aab8aa1-6f7a-4777-b0b3-ae4a4f13b4f6"
       },
       "plugins": {
         "picker": {
